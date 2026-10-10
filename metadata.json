@@ -1,0 +1,6 @@
+{
+  "name": "AdLens AI — Srishti 2K26 PS02",
+  "description": "AI-Powered Ad Creative Intelligence platform for Srishti 2K26 Problem Statement PS02. Ingests real creative datasets, extracts measurable visual attributes, runs statistical performance analysis, and generates grounded Gemini vision insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
